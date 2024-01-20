@@ -1,0 +1,14 @@
+D:\Курс GeekBrains\Git_education_C#\seminar5\dz3\obj\Debug\net7.0\dz3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Курс GeekBrains\Git_education_C#\seminar5\dz3\obj\Debug\net7.0\dz3.AssemblyInfoInputs.cache
+D:\Курс GeekBrains\Git_education_C#\seminar5\dz3\obj\Debug\net7.0\dz3.AssemblyInfo.cs
+D:\Курс GeekBrains\Git_education_C#\seminar5\dz3\obj\Debug\net7.0\dz3.csproj.CoreCompileInputs.cache
+D:\Курс GeekBrains\Git_education_C#\seminar5\dz3\bin\Debug\net7.0\dz3.exe
+D:\Курс GeekBrains\Git_education_C#\seminar5\dz3\bin\Debug\net7.0\dz3.deps.json
+D:\Курс GeekBrains\Git_education_C#\seminar5\dz3\bin\Debug\net7.0\dz3.runtimeconfig.json
+D:\Курс GeekBrains\Git_education_C#\seminar5\dz3\bin\Debug\net7.0\dz3.dll
+D:\Курс GeekBrains\Git_education_C#\seminar5\dz3\bin\Debug\net7.0\dz3.pdb
+D:\Курс GeekBrains\Git_education_C#\seminar5\dz3\obj\Debug\net7.0\dz3.dll
+D:\Курс GeekBrains\Git_education_C#\seminar5\dz3\obj\Debug\net7.0\refint\dz3.dll
+D:\Курс GeekBrains\Git_education_C#\seminar5\dz3\obj\Debug\net7.0\dz3.pdb
+D:\Курс GeekBrains\Git_education_C#\seminar5\dz3\obj\Debug\net7.0\dz3.genruntimeconfig.cache
+D:\Курс GeekBrains\Git_education_C#\seminar5\dz3\obj\Debug\net7.0\ref\dz3.dll
